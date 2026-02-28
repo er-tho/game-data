@@ -1,0 +1,157 @@
+display:
+  mode: fullscreen
+  window_resolution:
+    width: 800
+    height: 600
+  fullscreen_resolution:
+    width: 1024
+    height: 768
+  vsync: false
+audio:
+  mainVolume: -1100
+  playJukeboxMusic: true
+  play_title_music: true
+  playNewsSounds: true
+  playlist: currentEra
+  customJukebox:
+    chugginAlong: false
+    longDustyRoad: false
+    flyingHigh: false
+    gettinOnTheGas: false
+    jumpinTheRails: false
+    smoothRunning: false
+    trafficJam: false
+    neverStopTilYouGetThere: false
+    soaringAway: false
+    technoTorture: false
+    everlastingHighRise: false
+    solace: false
+    chrysanthemum: false
+    eugenia: false
+    theRagtimeDance: false
+    easyWinners: false
+    settingOff: false
+    aTravellersSerenade: false
+    latinoTrip: false
+    aGoodHeadOfSteam: false
+    hopToTheBop: false
+    theCityLights: false
+    steaminDownTown: false
+    brightExpectations: false
+    moStation: false
+    farOut: false
+    runningOnTime: false
+    getMeToGladstoneBay: false
+    sandyTrackBlues: false
+network:
+  enabled: false
+loco_install_path: /home/pi/RetroPie/roms/ports/openloco/data
+last_save_path: ""
+last_landscape_path: ""
+language: en-GB
+measurementFormat: metric
+preferredCurrency:
+  flags: 0
+  name: "\x00\x00\x00\x00\x00\x00\x00\x00"
+  checksum: 0
+usePreferredCurrencyForNewGames: false
+usePreferredCurrencyAlways: false
+scale_factor: 1
+showFPS: false
+uncapFPS: false
+constructionMarker: 0
+gridlinesOnLandscape: false
+heightMarkerOffset: 2
+showHeightAsUnits: false
+landscapeSmoothing: true
+vehiclesMinScale: 2
+stationNamesMinScale: 2
+news:
+  majorCompany: none
+  majorCompetitor: none
+  minorCompany: none
+  minorCompetitor: none
+  general: none
+  advice: none
+allow_multiple_instances: false
+cashPopupRendering: true
+edgeScrolling: true
+edgeScrollingSpeed: 12
+windowFrameStyle: background
+zoom_to_cursor: true
+autosave_amount: 12
+autosave_frequency: 1
+exportObjectsWithSaves: true
+breakdowns_disabled: false
+buildLockedVehicles: false
+cheats_menu_enabled: false
+companyAIDisabled: false
+disableVehicleLoadPenaltyCheat: false
+displayLockedVehicles: false
+invertRightMouseViewPan: false
+townGrowthDisabled: false
+trainsReverseAtSignals: true
+disableStationSizeLimit: false
+showAiPlanningAsGhosts: false
+preferredOwnerName: ""
+usePreferredOwnerName: false
+preferredOwnerFace:
+  flags: 4294967295
+  name: ÿÿÿÿÿÿÿÿ
+  checksum: 4294967295
+usePreferredOwnerFace: false
+shortcuts:
+  closeTopmostWindow: Backspace
+  closeAllFloatingWindows: Left Shift+Backspace
+  cancelConstructionMode: Escape
+  pauseUnpauseGame: Pause
+  zoomViewOut: PageUp
+  zoomViewIn: PageDown
+  rotateView: Return
+  rotateConstructionObject: Z
+  toggleUndergroundView: 1
+  toggleSeeThroughTracks: 2
+  toggleSeeThroughRoads: 3
+  toggleSeeThroughTrees: 4
+  toggleSeeThroughBuildings: 5
+  toggleSeeThroughScenery: 7
+  toggleSeeThroughBridges: 6
+  toggleHeightMarksOnLand: 8
+  toggleHeightMarksOnTracks: 9
+  toggleDirArrowsOnTracks: 0
+  adjustLand: L
+  adjustWater: W
+  plantTrees: P
+  bulldozeArea: X
+  buildTracks: T
+  buildRoads: R
+  buildAirports: A
+  buildShipPorts: D
+  buildNewVehicles: N
+  showVehiclesList: V
+  showStationsList: S
+  showTownsList: U
+  showIndustriesList: I
+  showMap: M
+  showCompaniesList: C
+  showCompanyInformation: Q
+  showFinances: F
+  showAnnouncementsList: Tab
+  showOptionsWindow: ""
+  makeScreenshot: Left Ctrl+S
+  toggleLastAnnouncement: Space
+  sendMessage: F1
+  constructionPreviousTab: ""
+  constructionNextTab: ""
+  constructionPreviousTrackPiece: ""
+  constructionNextTrackPiece: ""
+  constructionPreviousSlope: ""
+  constructionNextSlope: ""
+  constructionBuildAtCurrentPos: ""
+  constructionRemoveAtCurrentPos: ""
+  constructionSelectPosition: ""
+  gameSpeedNormal: ""
+  gameSpeedFastForward: ""
+  gameSpeedExtraFastForward: ""
+  openDebugWindow: F10
+scenarioSelectedTab: 0
